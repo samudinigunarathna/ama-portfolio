@@ -85,7 +85,7 @@ header{
     height: 180px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid #2563EB;
+    border: 5px solid #0d307d;
     margin-bottom: 20px;
     transition: 0.3s;
 }
@@ -130,7 +130,7 @@ h2{
 }
 
 .skill-list span{
-    background: #2563EB;
+    background: #0d307d;
     color: white;
     padding: 10px 18px;
     border-radius: 25px;
@@ -139,7 +139,7 @@ h2{
 }
 
 .skill-list span:hover{
-    background: #3B82F6;
+    background: #0d307d;
     transform: translateY(-3px);
 }
 
@@ -203,7 +203,7 @@ h2{
 
 .tech{
     font-weight: bold;
-    color: #2563EB !important;
+    color: #0d307d !important;
 }
 
 /* Footer */
